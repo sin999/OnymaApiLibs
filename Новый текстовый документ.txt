@@ -1,0 +1,10 @@
+activation.jar
+axis.jar
+commons-discovery.jar
+commons-logging.jar
+jaxrpc.jar
+junit.jar
+mail.jar
+OnymaApi.jar
+saaj.jar
+wsdl.jar
